@@ -1,0 +1,19 @@
+{
+    "nome": "eliezer",
+    "login": "eliezer",
+    "senha": "123",
+    "atividades": [
+        {
+            "index": "1",
+            "atividade": "gas",
+            "date": "27\/05\/2022 - 21:12:36",
+            "status": "done"
+        },
+        {
+            "index": "2",
+            "atividade": "gas",
+            "date": "27\/05\/2022 - 21:12:43",
+            "status": "done"
+        }
+    ]
+}
